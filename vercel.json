@@ -1,7 +1,5 @@
 {
     "rewrites": [
-      {"source": "/", "destination": "https://gabox08-github-io.vercel.app/"},
-      {"source": "/:match*", "destination": "https://gabox08-github-io.vercel.app/:match*"},
       {"source": "/GoogleClone/", "destination": "https://google-clone-umber-ten.vercel.app/"},
       {"source": "/GoogleClone/:match*", "destination": "https://google-clone-umber-ten.vercel.app/:match*"},
       {"source": "/RiviaSale/", "destination": "https://rivia-sale.vercel.app/"},
@@ -11,6 +9,8 @@
       {"source": "/QRCodeComponent", "destination": "https://fm-qr-code-component-ten.vercel.app/"},
       {"source": "/QRCodeComponent:match*", "destination": "https://fm-qr-code-component-ten.vercel.app/:match*"},
       {"source": "/3ColumnCardComponent/", "destination": "https://column-preview-card-component-blond.vercel.app/"},
-      {"source": "/3ColumnCardComponent/:match*", "destination": "https://column-preview-card-component-blond.vercel.app/:match*"}
+      {"source": "/3ColumnCardComponent/:match*", "destination": "https://column-preview-card-component-blond.vercel.app/:match*"},
+      {"source": "/", "destination": "https://gabox08-github-io.vercel.app/"},
+      {"source": "/:match*", "destination": "https://gabox08-github-io.vercel.app/:match*"}
     ]
   }
