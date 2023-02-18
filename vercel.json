@@ -9,6 +9,8 @@
       {"source": "/Ahorcado/", "destination": "https://ahorcado-eight-dun.vercel.app/"},
       {"source": "/Ahorcado/:match*", "destination": "https://ahorcado-eight-dun.vercel.app/:match*"},
       {"source": "/QRCodeComponent", "destination": "https://fm-qr-code-component-ten.vercel.app/"},
-      {"source": "/QRCodeComponent:match*", "destination": "https://fm-qr-code-component-ten.vercel.app/:match*"}
+      {"source": "/QRCodeComponent:match*", "destination": "https://fm-qr-code-component-ten.vercel.app/:match*"},
+      {"source": "/3ColumnCardComponent/", "destination": "https://column-preview-card-component-blond.vercel.app/"},
+      {"source": "/3ColumnCardComponent/:match*", "destination": "https://column-preview-card-component-blond.vercel.app/:match*"}
     ]
   }
