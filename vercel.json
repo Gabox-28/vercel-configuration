@@ -1,5 +1,6 @@
 {
     "rewrites": [
-      {"source": "/", "destination": "https://gabox08-github-io.vercel.app/"}
+      {"source": "/", "destination": "https://gabox08-github-io.vercel.app/"},
+      {"source": "/:match*", "destination": "https://gabox08-github-io.vercel.app/:match*"}
     ]
   }
