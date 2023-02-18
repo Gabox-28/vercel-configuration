@@ -1,0 +1,5 @@
+{
+    "rewrites":[
+        {"source" : "/", "destination": "https://gabox08-github-io.vercel.app/"}
+    ]
+}
