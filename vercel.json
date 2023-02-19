@@ -1,5 +1,7 @@
 {
     "rewrites": [
+      {"source": "/NFTCardComponent/", "destination": "https://nft-card-component-self.vercel.app/"},
+      {"source": "/NFTCardComponent/:match*", "destination": "https://nft-card-component-self.vercel.app/:match*"},
       {"source": "/GoogleClone/", "destination": "https://google-clone-umber-ten.vercel.app/"},
       {"source": "/GoogleClone/:match*", "destination": "https://google-clone-umber-ten.vercel.app/:match*"},
       {"source": "/RiviaSale/", "destination": "https://rivia-sale.vercel.app/"},
