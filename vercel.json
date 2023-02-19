@@ -1,5 +1,7 @@
 {
     "rewrites": [
+      {"source": "/ProductCardComponent/", "destination": "https://product-card-component-topaz.vercel.app/"},
+      {"source": "/ProductCardComponent/:match*", "destination": "https://product-card-component-topaz.vercel.app/:match*"},
       {"source": "/NFTCardComponent/", "destination": "https://nft-card-component-self.vercel.app/"},
       {"source": "/NFTCardComponent/:match*", "destination": "https://nft-card-component-self.vercel.app/:match*"},
       {"source": "/GoogleClone/", "destination": "https://google-clone-umber-ten.vercel.app/"},
