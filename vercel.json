@@ -1,7 +1,7 @@
 {
     "rewrites": [
-      {"source": "/ProfileComponent", "destination": "https://profile-component-hazel.vercel.app/"},
-      {"source": "/ProfileComponent:match*", "destination": "https://profile-component-hazel.vercel.app/:match*"},
+      {"source": "/ProfileComponent/", "destination": "https://profile-component-hazel.vercel.app/"},
+      {"source": "/ProfileComponent/:match*", "destination": "https://profile-component-hazel.vercel.app/:match*"},
 
       {"source": "/ArticleComponent/", "destination": "https://article-component-theta.vercel.app/"},
       {"source": "/ArticleComponent/:match*", "destination": "https://article-component-theta.vercel.app/:match*"},
