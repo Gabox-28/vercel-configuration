@@ -1,33 +1,45 @@
 {
     "rewrites": [
-      {"source": "/ProfileComponent/", "destination": "https://profile-component-hazel.vercel.app/"},
-      {"source": "/ProfileComponent/:match*", "destination": "https://profile-component-hazel.vercel.app/:match*"},
+        {"source": "/InteractiveRatingComponent/", "destination": "https://interactive-rating-component-snowy-kappa.vercel.app/"},
+        {"source": "/InteractiveRatingComponent/:match*", "destination": "https://interactive-rating-component-snowy-kappa.vercel.app/:match*"},
 
-      {"source": "/ArticleComponent/", "destination": "https://article-component-theta.vercel.app/"},
-      {"source": "/ArticleComponent/:match*", "destination": "https://article-component-theta.vercel.app/:match*"},
+        {"source": "/OrderSummaryComponent/", "destination": "https://order-summary-component-delta-dusky.vercel.app/"},
+        {"source": "/OrderSummaryComponent/:match*", "destination": "https://order-summary-component-delta-dusky.vercel.app/:match*"},
 
-      {"source": "/ProductCardComponent/", "destination": "https://product-card-component-topaz.vercel.app/"},
-      {"source": "/ProductCardComponent/:match*", "destination": "https://product-card-component-topaz.vercel.app/:match*"},
+        {"source": "/ResultsSummaryComponent/", "destination": "https://results-summary-component-lime.vercel.app/"},
+        {"source": "/ResultsSummaryComponent/:match*", "destination": "https://results-summary-component-lime.vercel.app/:match*"},
 
-      {"source": "/NFTCardComponent/", "destination": "https://nft-card-component-self.vercel.app/"},
-      {"source": "/NFTCardComponent/:match*", "destination": "https://nft-card-component-self.vercel.app/:match*"},
+        {"source": "/ProfileComponent/", "destination": "https://profile-component-hazel.vercel.app/"},
+        {"source": "/ProfileComponent/:match*", "destination": "https://profile-component-hazel.vercel.app/:match*"},
 
-      {"source": "/GoogleClone/", "destination": "https://google-clone-umber-ten.vercel.app/"},
-      {"source": "/GoogleClone/:match*", "destination": "https://google-clone-umber-ten.vercel.app/:match*"},
+        {"source": "/ProfileComponent/", "destination": "https://profile-component-hazel.vercel.app/"},
+        {"source": "/ProfileComponent/:match*", "destination": "https://profile-component-hazel.vercel.app/:match*"},
 
-      {"source": "/RiviaSale/", "destination": "https://rivia-sale.vercel.app/"},
-      {"source": "/RiviaSale/:match*", "destination": "https://rivia-sale.vercel.app/:match*"},
+        {"source": "/ArticleComponent/", "destination": "https://article-component-theta.vercel.app/"},
+        {"source": "/ArticleComponent/:match*", "destination": "https://article-component-theta.vercel.app/:match*"},
 
-      {"source": "/Ahorcado/", "destination": "https://ahorcado-eight-dun.vercel.app/"},
-      {"source": "/Ahorcado/:match*", "destination": "https://ahorcado-eight-dun.vercel.app/:match*"},
+        {"source": "/ProductCardComponent/", "destination": "https://product-card-component-topaz.vercel.app/"},
+        {"source": "/ProductCardComponent/:match*", "destination": "https://product-card-component-topaz.vercel.app/:match*"},
 
-      {"source": "/QRCodeComponent/", "destination": "https://fm-qr-code-component-ten.vercel.app/"},
-      {"source": "/QRCodeComponent/:match*", "destination": "https://fm-qr-code-component-ten.vercel.app/:match*"},
+        {"source": "/NFTCardComponent/", "destination": "https://nft-card-component-self.vercel.app/"},
+        {"source": "/NFTCardComponent/:match*", "destination": "https://nft-card-component-self.vercel.app/:match*"},
 
-      {"source": "/3ColumnCardComponent/", "destination": "https://column-preview-card-component-blond.vercel.app/"},
-      {"source": "/3ColumnCardComponent/:match*", "destination": "https://column-preview-card-component-blond.vercel.app/:match*"},
+        {"source": "/GoogleClone/", "destination": "https://google-clone-umber-ten.vercel.app/"},
+        {"source": "/GoogleClone/:match*", "destination": "https://google-clone-umber-ten.vercel.app/:match*"},
 
-      {"source": "/", "destination": "https://gabox08-github-io.vercel.app/"},
-      {"source": "/:match*", "destination": "https://gabox08-github-io.vercel.app/:match*"}
+        {"source": "/RiviaSale/", "destination": "https://rivia-sale.vercel.app/"},
+        {"source": "/RiviaSale/:match*", "destination": "https://rivia-sale.vercel.app/:match*"},
+
+        {"source": "/Ahorcado/", "destination": "https://ahorcado-eight-dun.vercel.app/"},
+        {"source": "/Ahorcado/:match*", "destination": "https://ahorcado-eight-dun.vercel.app/:match*"},
+
+        {"source": "/QRCodeComponent/", "destination": "https://fm-qr-code-component-ten.vercel.app/"},
+        {"source": "/QRCodeComponent/:match*", "destination": "https://fm-qr-code-component-ten.vercel.app/:match*"},
+
+        {"source": "/3ColumnCardComponent/", "destination": "https://column-preview-card-component-blond.vercel.app/"},
+        {"source": "/3ColumnCardComponent/:match*", "destination": "https://column-preview-card-component-blond.vercel.app/:match*"},
+
+        {"source": "/", "destination": "https://gabox08-github-io.vercel.app/"},
+        {"source": "/:match*", "destination": "https://gabox08-github-io.vercel.app/:match*"}
     ]
   }
