@@ -1,5 +1,8 @@
 {
     "rewrites": [
+        {"source": "/InteractiveGame/", "destination": "https://a-frame-game.vercel.app/"},
+        {"source": "/InteractiveGame/:match*", "destination": "https://a-frame-game.vercel.app/:match*"},
+
         {"source": "/InteractiveRatingComponent/", "destination": "https://interactive-rating-component-snowy-kappa.vercel.app/"},
         {"source": "/InteractiveRatingComponent/:match*", "destination": "https://interactive-rating-component-snowy-kappa.vercel.app/:match*"},
 
