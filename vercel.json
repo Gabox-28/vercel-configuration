@@ -1,5 +1,8 @@
 {
     "rewrites": [
+        {"source": "/InteractiveVideo/", "destination": "https://interactive-video-tau.vercel.app/"},
+        {"source": "/InteractiveVideo/:match*", "destination": "https://interactive-video-tau.vercel.app/:match*"},
+
         {"source": "/InteractiveGame/", "destination": "https://a-frame-game.vercel.app/"},
         {"source": "/InteractiveGame/:match*", "destination": "https://a-frame-game.vercel.app/:match*"},
 
