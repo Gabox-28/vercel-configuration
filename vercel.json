@@ -1,5 +1,8 @@
 {
     "rewrites": [
+        {"source": "/MortaGames/", "destination": "https://platzi-games-final.vercel.app/"},
+        {"source": "/MortaGames/:match*", "destination": "hhttps://platzi-games-final.vercel.app/:match*"},
+
         {"source": "/Batatabit/", "destination": "https://landing-page-seven-ruddy.vercel.app/"},
         {"source": "/Batatabit/:match*", "destination": "https://landing-page-seven-ruddy.vercel.app/:match*"},
 
