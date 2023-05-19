@@ -1,5 +1,8 @@
 {
     "rewrites": [
+        {"source": "/museo-vr/", "destination": "https://web-vr-chi.vercel.app/"},
+        {"source": "/museo-vr/:match*", "destination": "https://web-vr-chi.vercel.app/:match*"},
+
         {"source": "/MortaGames/", "destination": "https://platzi-games-final.vercel.app/"},
         {"source": "/MortaGames/:match*", "destination": "https://platzi-games-final.vercel.app/:match*"},
 
